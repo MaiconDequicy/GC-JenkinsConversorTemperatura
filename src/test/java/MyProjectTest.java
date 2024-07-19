@@ -1,13 +1,10 @@
-package src.test.java;
+import org.junit.Test;
+import static org.junit.Assert.assertTrue;
 
 public class MyProjectTest {
 
+    @Test
     public void testExample() {
         assertTrue(true); // Teste simples utilizando o assertTrue do JUnit
-    }
-
-    private void assertTrue(boolean b) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'assertTrue'");
     }
 }
