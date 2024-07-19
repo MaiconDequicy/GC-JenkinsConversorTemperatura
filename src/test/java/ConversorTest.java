@@ -14,5 +14,5 @@ public class ConversorTest {
     public void testCelsiusParaFahrenheit() {
         assertEquals(32, Conversor.celsiusParaFahrenheit(0), 0.001);
         assertEquals(212, Conversor.celsiusParaFahrenheit(100), 0.001);
-    }
+    
 }
