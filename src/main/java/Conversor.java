@@ -1,3 +1,5 @@
+package src.main.java;
+
 public class Conversor {
 
     public static double fahrenheitParaCelsius(double fahrenheit) {

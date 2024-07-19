@@ -1,5 +1,9 @@
+package src.test;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
+
+import src.main.java.Conversor;
 
 public class ConversorTest {
 
